@@ -1,4 +1,4 @@
-# cs61aprojects
+# CSprojects
 
 This repo contains projects such as a Scheme Interpreter built from Python.
 
