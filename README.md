@@ -1,5 +1,13 @@
 # CSprojects
 
-This repo contains projects such as a Scheme Interpreter built from Python.
+This repo contains projects that I've worked on over the last few years.
 
-I will update this page with more information about the various projects, relevant topics of CS, and others later.
+Currently, this repo contains:
+
+Scheme Interpreter
+
+Snake
+
+2048
+
+Each folder contains a README with more information about the projects and my contributions.
